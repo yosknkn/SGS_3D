@@ -9,7 +9,7 @@
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.1.0",
     "com.unity.ugui": "1.0.0",
-    "mu.cluster.cluster-creator-kit": "file:D:/yousuke/Downloads/ClusterCreatorKit-1.2.2/ClusterCreatorKit-1.2.2",
+    "mu.cluster.cluster-creator-kit": "https://github.com/ClusterVR/ClusterCreatorKit.git",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -41,5 +41,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "mu.cluster.cluster-creator-kit": {
+      "hash": "1a8ed10cc9209c6051fbc290dcebd736833972ed",
+      "revision": "HEAD"
+    }
   }
 }
