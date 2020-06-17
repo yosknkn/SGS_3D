@@ -3,8 +3,8 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
+  m_ExternalVersionControlSupport: Visible Meta Files
   serializedVersion: 8
-  m_ExternalVersionControlSupport: Hidden Meta Files
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 2
   m_DefaultBehaviorMode: 0
