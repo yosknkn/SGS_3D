@@ -8,8 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ClassRoomMat
-    second: {fileID: -144857164267690357, guid: a8d3e08f4404a14488cd388eaf89b60e,
-      type: 3}
+    second: {fileID: 2100000, guid: 72c52bbb5a3dc5a41b7e8bca7e9e0502, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
