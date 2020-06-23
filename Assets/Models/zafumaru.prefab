@@ -92,6 +92,7 @@ GameObject:
   - component: {fileID: 3737290039186275536}
   - component: {fileID: 6122294454432911885}
   - component: {fileID: 8083577609897228792}
+  - component: {fileID: 7962809794548119272}
   m_Layer: 14
   m_Name: zafumaru
   m_TagString: Untagged
@@ -187,3 +188,19 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 14
   m_Mesh: {fileID: 5876722744731809403, guid: 2bd4061e171886144afd1a08aa49871b, type: 3}
+--- !u!114 &7962809794548119272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3278213837263407543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396768c05fa51bd47ab528ca7d76a531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 4439012364731237506}
+  key:
+    target: 2
+    key: zenkesi
