@@ -1,10 +1,20 @@
-newmtl ProBuilderDefault
-map_Kd GridBox_Default.png
+newmtl WoodPiller
+map_Kd wood.png
+Kd 1 0.8287146 0.6084906
+d 1
+
+newmtl Yuka
+map_Kd yuka.png
 Kd 1 1 1
 d 1
 
-newmtl WoodPiller
+newmtl Wood
 map_Kd wood.png
-Kd 1 0.8917221 0.75
+Kd 1 1 1
+d 1
+
+newmtl Tatami
+map_Kd tatami.png
+Kd 1 1 1
 d 1
 
