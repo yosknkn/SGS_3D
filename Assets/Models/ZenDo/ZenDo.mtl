@@ -1,0 +1,10 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl WoodPiller
+map_Kd wood.png
+Kd 1 0.8917221 0.75
+d 1
+

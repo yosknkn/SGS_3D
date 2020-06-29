@@ -1,8 +1,3 @@
-newmtl ProBuilderDefault
-map_Kd GridBox_Default.png
-Kd 1 1 1
-d 1
-
 newmtl Floor1
 map_Kd Floor.png
 Kd 1 1 1
@@ -27,7 +22,7 @@ map_Kd Wall.png
 Kd 1 1 1
 d 1
 
-newmtl Window
+newmtl Sash
 Kd 1 0.9803922 0.945098
 d 1
 
@@ -91,4 +86,12 @@ d 1
 newmtl BaseBoard
 Kd 0.5754717 0.5754717 0.5754717
 d 1
+
+newmtl LightFrame
+Kd 0.8934551 0.8962264 0.7651744
+d 1
+
+newmtl Window
+Kd 1 1 1
+d 0
 

@@ -1,0 +1,18 @@
+{
+    "name": "HatoSword.Editor",
+    "references": [
+        "GUID:8adf783bee92d48cd904473c4e2a5515",
+        "GUID:6afc7a87754b74712bf1db60172d7bc2",
+        "GUID:a19be0bf1aced49c9834d695cfd05562"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

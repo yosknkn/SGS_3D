@@ -1,0 +1,15 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl Floor1
+map_Kd Floor.png
+Kd 1 1 1
+d 1
+
+newmtl Wall
+map_Kd Wall.png
+Kd 1 1 1
+d 1
+

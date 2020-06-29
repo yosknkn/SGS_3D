@@ -62,13 +62,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: LightFrame
+    second: {fileID: 2100000, guid: d22e9742e31382b4ea9deeaa73a383a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Locker
     second: {fileID: 2100000, guid: 4575bd512e5d92e4aa62c8d67bbaa7b5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: ProBuilderDefault
-    second: {fileID: 2100000, guid: 264be648996d3f6428539e057bf97641, type: 2}
+      name: Sash
+    second: {fileID: 2100000, guid: ea2659afe61534e41adae459c8e87837, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
