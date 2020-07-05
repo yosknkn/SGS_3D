@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fe5dd30f5d78d9b41b7c9a41a38c8769
+guid: 6288a209a6ae8c3489e35e55cb95ecf9
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
@@ -7,23 +7,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Celling
-    second: {fileID: 2100000, guid: 9b210d84f44a97d49a5b160022529350, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor1
-    second: {fileID: 2100000, guid: 799ca08b7469fa3498aa427db6ecb058, type: 2}
+      name: BaseBoard
+    second: {fileID: 2100000, guid: b6874efe6222d3d42b3e16c50cbac2d1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Light
-    second: {fileID: 2100000, guid: 1bae9ebe8249dfd4384e82d3f1bee9b6, type: 2}
+    second: {fileID: 2100000, guid: daca8ad936cb0964e833c5c760319136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouka1
+    second: {fileID: 2100000, guid: ae58079cd9a0d334d9262ce4b11fc44d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouka2
+    second: {fileID: 2100000, guid: 35907c1a770f36744a89a8d1ea03c156, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wall
-    second: {fileID: 2100000, guid: 710c1369e0dbbb54a887937bf99cf920, type: 2}
+    second: {fileID: 2100000, guid: 9f7ac9263f05ede448154cdf7050a173, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -63,7 +68,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    swapUVChannels: 0
+    swapUVChannels: 1
     generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
@@ -74,14 +79,14 @@ ModelImporter:
     minBoneWeight: 0.001
     meshOptimizationFlags: -1
     indexFormat: 0
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAngleDistortion: 6
+    secondaryUVAreaDistortion: 12
     secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
+    secondaryUVPackMargin: 5
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0

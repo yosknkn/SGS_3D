@@ -18,3 +18,8 @@ map_Kd tatami.png
 Kd 1 1 1
 d 1
 
+newmtl konkuri-to
+map_Kd konkuri-to.jpg
+Kd 1 1 1
+d 1
+

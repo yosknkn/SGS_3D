@@ -1,5 +1,5 @@
-newmtl Floor1
-map_Kd Floor.png
+newmtl Celling
+map_Kd Celling.png
 Kd 1 1 1
 d 1
 
@@ -12,21 +12,27 @@ newmtl Door2
 Kd 0 0 0
 d 1
 
+newmtl Floor1
+map_Kd Floor.png
+Kd 1 1 1
+d 1
+
+newmtl ToolBox
+Kd 1 1 1
+d 1
+
 newmtl Floor2
 map_Kd Floor.png
 Kd 0.7169812 0.6050145 0.4633322
 d 1
 
-newmtl Wall
-map_Kd Wall.png
+newmtl Locker
+map_Kd Locker.png
 Kd 1 1 1
 d 1
 
-newmtl Sash
-Kd 1 0.9803922 0.945098
-d 1
-
-newmtl ToolBox
+newmtl Wall
+map_Kd Wall.png
 Kd 1 1 1
 d 1
 
@@ -35,13 +41,21 @@ map_Kd Blackboard.png
 Kd 1 1 1
 d 1
 
-newmtl Celling
-map_Kd Celling.png
+newmtl BaseBoard
+Kd 0.5754717 0.5754717 0.5754717
+d 1
+
+newmtl Sash
+Kd 1 0.9803922 0.945098
+d 1
+
+newmtl CenterLocker
+map_Kd CenterLocker.png
 Kd 1 1 1
 d 1
 
-newmtl Locker
-map_Kd Locker.png
+newmtl souji
+map_Kd souji.png
 Kd 1 1 1
 d 1
 
@@ -63,28 +77,14 @@ newmtl FlontLight
 Kd 0.7725491 0.7843138 0.7843138
 d 1
 
-newmtl CenterLocker
-map_Kd CenterLocker.png
-Kd 1 1 1
-d 1
-
 newmtl keiji
 map_Kd keiji.png
-Kd 1 1 1
-d 1
-
-newmtl souji
-map_Kd souji.png
 Kd 1 1 1
 d 1
 
 newmtl asuwo
 map_Kd asuwo.png
 Kd 1 1 1
-d 1
-
-newmtl BaseBoard
-Kd 0.5754717 0.5754717 0.5754717
 d 1
 
 newmtl LightFrame

@@ -1,15 +1,17 @@
+newmtl Rouka1
+Kd 1 0.6924586 0.495283
+d 1
+
 newmtl Wall
 map_Kd Wall.png
 Kd 1 1 1
 d 1
 
-newmtl Floor1
-map_Kd Floor.png
-Kd 1 1 1
+newmtl BaseBoard
+Kd 0.5754717 0.5754717 0.5754717
 d 1
 
-newmtl Celling
-map_Kd Celling.png
+newmtl Rouka2
 Kd 1 1 1
 d 1
 
