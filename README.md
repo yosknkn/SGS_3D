@@ -1,1 +1,1 @@
-# SGS ClusterWorld化計画
+# 獅子児祭ClusterWorld化計画
