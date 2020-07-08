@@ -40,11 +40,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "mu.cluster.cluster-creator-kit": {
-      "hash": "81fc7d0d5184f165717b8bb375ad58c2d5ab22c2",
-      "revision": "HEAD"
-    }
   }
 }
