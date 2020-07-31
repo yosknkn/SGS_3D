@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 2817901470573108588}
   - component: {fileID: 2817901470573108589}
   - component: {fileID: 4496837918493285599}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Reset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -359,11 +359,6 @@ PrefabInstance:
       propertyPath: triggers.Array.data[2].specifiedTargetItem
       value: 
       objectReference: {fileID: 2817901470251884308}
-    - target: {fileID: 1166903421529184614, guid: f0858d2e2a10e4de29d41975761e9935,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2263730030093021317, guid: f0858d2e2a10e4de29d41975761e9935,
         type: 3}
       propertyPath: targetTransform
@@ -428,11 +423,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WarpSwordDummy
-      objectReference: {fileID: 0}
-    - target: {fileID: 2924339615071833877, guid: f0858d2e2a10e4de29d41975761e9935,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4765045287840974336, guid: f0858d2e2a10e4de29d41975761e9935,
         type: 3}

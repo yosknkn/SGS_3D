@@ -22,7 +22,7 @@ namespace HatoSword
 
             var warpPlayerGimmickKeyFieldInfo = typeof(WarpPlayerGimmick).GetField("key", BindingFlags.NonPublic | BindingFlags.Instance);
             var useUpTriggersFieldInfo = typeof(UseItemTrigger).GetField("upTriggers", BindingFlags.NonPublic | BindingFlags.Instance);
-            var itemTriggerKeyFieldInfo = typeof(ItemTrigger).GetField("key", BindingFlags.NonPublic | BindingFlags.Instance);
+            var itemTriggerKeyFieldInfo = typeof(TriggerParam).GetField("key", BindingFlags.NonPublic | BindingFlags.Instance);
 
             var scene = SceneManager.GetActiveScene();
 
@@ -43,7 +43,7 @@ namespace HatoSword
                 var useItemTrigger  = warpPlayerGimmick.GetComponent<UseItemTrigger>();
                 if (useItemTrigger == null) continue;
 
-                var upTriggers = (ItemTrigger[]) useUpTriggersFieldInfo.GetValue(useItemTrigger);
+                var upTriggers = (TriggerParam[]) useUpTriggersFieldInfo.GetValue(useItemTrigger);
                 foreach (var trigger in upTriggers)
                 {
                     if (!IsWarpSwordKey(trigger.Key)) continue;

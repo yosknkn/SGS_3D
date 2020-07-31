@@ -25,7 +25,7 @@ Create Item Gimmick による生成には対応していません。伝説の剣
 
 ## 要件
 
-- Cluster Creator Kit v1.3.0 以上
+- Cluster Creator Kit v1.6.0 以上
 
 ## ライセンス
 
@@ -39,4 +39,5 @@ CC0で配布します。
 
 ## 更新履歴
 
+- 2020/07/26 v1.0.1 Creator Kit 対応バージョンを v1.6.0 以上に変更
 - 2020/06/20 v1.0.0 公開
