@@ -45,7 +45,7 @@ newmtl BaseBoard
 Kd 0.5754717 0.5754717 0.5754717
 d 1
 
-newmtl Sash
+newmtl WindowFrame
 Kd 1 0.9803922 0.945098
 d 1
 
@@ -94,4 +94,12 @@ d 1
 newmtl Window
 Kd 1 1 1
 d 0
+
+newmtl Sash
+Kd 1 0.9955841 0.9481132
+d 1
+
+newmtl Black
+Kd 0.4716981 0.4716981 0.4716981
+d 1
 
