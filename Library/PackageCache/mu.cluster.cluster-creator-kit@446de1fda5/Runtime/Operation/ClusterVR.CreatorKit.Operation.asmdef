@@ -1,0 +1,16 @@
+{
+    "name": "ClusterVR.CreatorKit.Operation",
+    "references": [
+        "ClusterVR.CreatorKit",
+        "ClusterVR.CreatorKit.Trigger",
+        "ClusterVR.CreatorKit.Gimmick"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
