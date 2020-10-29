@@ -40,7 +40,8 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.modules.ui": "1.0.0"
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
       }
     },
     "com.unity.xr.openvr.standalone": {
@@ -55,7 +56,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "446de1fda5e503901c5b1e7e83b5c49afc749c6d"
+      "hash": "3bb68f6c43f64e317612490acc2e5340391f06ea"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
