@@ -78,7 +78,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4467561033433209091
 Transform:
@@ -97,6 +97,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &3484681755116155048
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861635791492525900}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3906510024370608137, guid: e6367c3b63da26d4c87d52ac90678fba, type: 3}
 --- !u!1001 &5743943505230795293
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -164,8 +178,19 @@ PrefabInstance:
       propertyPath: m_Name
       value: ClassRoom
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e6367c3b63da26d4c87d52ac90678fba,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6367c3b63da26d4c87d52ac90678fba, type: 3}
+--- !u!1 &4861635791492525900 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e6367c3b63da26d4c87d52ac90678fba,
+    type: 3}
+  m_PrefabInstance: {fileID: 5743943505230795293}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5205087298861725174 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e6367c3b63da26d4c87d52ac90678fba,
@@ -179,6 +204,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4467561033433209091}
     m_Modifications:
+    - target: {fileID: 3771300518789849125, guid: c102fb7aade43814093498d8f6bd14d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3771300519335723886, guid: c102fb7aade43814093498d8f6bd14d9,
         type: 3}
       propertyPath: m_Name
@@ -238,6 +268,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3771300519570519775, guid: c102fb7aade43814093498d8f6bd14d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3771300519640613035, guid: c102fb7aade43814093498d8f6bd14d9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c102fb7aade43814093498d8f6bd14d9, type: 3}
