@@ -3,7 +3,32 @@ guid: 016ecf1e8e723a2498a3bfd54cc28020
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseBoard
+    second: {fileID: 2100000, guid: e8f9c266bf75003499c1014619043623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 2b61b7821760e7649a5910f3ac2f5dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouka1
+    second: {fileID: 2100000, guid: b7acee47a58829f41affed66580f93e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouka2
+    second: {fileID: 2100000, guid: e29f0636e06b14941a056958002ac80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 83dedd5bc59ff3645b3bd648bc1fec30, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
