@@ -24,7 +24,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8273557911737147438}
   m_Layer: 0
-  m_Name: ClassRoom+Rouka
+  m_Name: Rouka
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -144,10 +144,20 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 2230080145589361969, guid: 74588ffadcb9d7e4abdc0ee762958028,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.18
+      objectReference: {fileID: 0}
     - target: {fileID: 2520494086957182699, guid: 74588ffadcb9d7e4abdc0ee762958028,
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4536776318315883459, guid: 74588ffadcb9d7e4abdc0ee762958028,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.18
       objectReference: {fileID: 0}
     - target: {fileID: 5914470189798989859, guid: 74588ffadcb9d7e4abdc0ee762958028,
         type: 3}
@@ -203,6 +213,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7312367710517664851, guid: 74588ffadcb9d7e4abdc0ee762958028,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.18
       objectReference: {fileID: 0}
     - target: {fileID: 8588949649955134113, guid: 74588ffadcb9d7e4abdc0ee762958028,
         type: 3}
