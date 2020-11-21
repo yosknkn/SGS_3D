@@ -3,7 +3,72 @@ guid: 7e4022a0c60b2324c836818496145ffe
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Tile
+    second: {fileID: 2100000, guid: 5035491d2aece684c846c9ab02a7532f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProBuilderDefault
+    second: {fileID: 2100000, guid: ee40c03047d9f4444b2d6c6c53b097fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackpoll
+    second: {fileID: 2100000, guid: 2380923ebb495d84f80dda1eee40aec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete
+    second: {fileID: 2100000, guid: e5e154417cb57dd469f7788f6b7c32ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gaiheki
+    second: {fileID: 2100000, guid: 4fa8554e6ef1e4543b61f4487294470d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2100000, guid: f3fc7784ad27cbc42b6c9bde05ceaf4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: offWhite
+    second: {fileID: 2100000, guid: 84efbbd5754622546b4e995f273cddc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangePoll
+    second: {fileID: 2100000, guid: 7e0fc5b8b4858314e80fdfec0f2a6e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: selling
+    second: {fileID: 2100000, guid: 775ca19e5e506e6439059a0cd44d1f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: caabd737fec5e154e97c9b3d7fccad23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_tile
+    second: {fileID: 2100000, guid: cefb37ba84b39834ea5bddc5cdc8511a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile
+    second: {fileID: 2100000, guid: b9d52ee417fdd0f45aac5facbe2ee4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodConcrete
+    second: {fileID: 2100000, guid: 661f962ce134eac46a160b35f8932a14, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
