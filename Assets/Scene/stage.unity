@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.0007787092, g: 0.0041236565, b: 0.019990839, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -73,7 +73,7 @@ LightmapSettings:
     m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
     m_MixedBakeMode: 2
-    m_BakeBackend: 1
+    m_BakeBackend: 2
     m_PVRSampling: 1
     m_PVRDirectSampleCount: 32
     m_PVRSampleCount: 512
@@ -98,7 +98,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: fa72e4c218214ee469cfea44fa19ceac,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -138,7 +139,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!224 &60933222
 RectTransform:
@@ -215,7 +216,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &87203342
 Transform:
@@ -394,6 +395,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!4 &174742566 stripped
@@ -422,7 +433,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &187710191
 Transform:
@@ -461,6 +472,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -596,6 +611,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1 &312020671 stripped
@@ -700,6 +725,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ClassRoom
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e6367c3b63da26d4c87d52ac90678fba,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6367c3b63da26d4c87d52ac90678fba, type: 3}
 --- !u!1001 &349679092
@@ -783,6 +813,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: school desk1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
@@ -868,6 +908,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1 &412296694 stripped
@@ -900,6 +950,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -964,7 +1018,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!224 &430266269
 RectTransform:
@@ -1134,6 +1188,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1 &516453312
@@ -1151,7 +1215,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &516453313
 Light:
@@ -1226,7 +1290,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 37.436, y: 41.192, z: 3.1290002}
 --- !u!1 &527800380
 GameObject:
@@ -1243,7 +1307,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &527800381
 Light:
@@ -1257,8 +1321,8 @@ Light:
   m_Type: 3
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
-  m_Range: 10
+  m_Intensity: 0.37
+  m_Range: 0.74
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -1318,7 +1382,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1001 &528453215
 PrefabInstance:
@@ -1401,6 +1465,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: school desk1 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
@@ -1512,6 +1586,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1 &625501590 stripped
@@ -1549,7 +1633,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!220 &663593678
 LightProbeGroup:
@@ -1744,7 +1828,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &685236349 stripped
 GameObject:
@@ -1796,6 +1880,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1857,7 +1945,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &794539146
 Transform:
@@ -1871,7 +1959,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: -140.285, z: 0}
 --- !u!4 &806238400 stripped
 Transform:
@@ -1960,6 +2048,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: school desk1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
@@ -2056,6 +2154,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1001 &880048371
@@ -2068,6 +2176,10 @@ PrefabInstance:
     - target: {fileID: 1607504894392946, guid: 99c8c3ee952221949af9221e736930fe, type: 3}
       propertyPath: m_Name
       value: StandardMainScreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1607504894392946, guid: 99c8c3ee952221949af9221e736930fe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4591896119177410, guid: 99c8c3ee952221949af9221e736930fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2143,6 +2255,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2272,6 +2388,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1001 &1049206626
@@ -2284,6 +2410,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2341,6 +2471,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2419,6 +2553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpawnPointEntrance
       objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.53405
@@ -2482,6 +2620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpawnPointEntrance (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.91833
@@ -2538,6 +2680,10 @@ PrefabInstance:
     - target: {fileID: 1121405413038464, guid: 9d0e5fe2297dc7c43bacd6f0b9944819, type: 3}
       propertyPath: m_Name
       value: SpawnPointOnStage1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1121405413038464, guid: 9d0e5fe2297dc7c43bacd6f0b9944819, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4307879862369144, guid: 9d0e5fe2297dc7c43bacd6f0b9944819, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2667,6 +2813,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1001 &1415923409
@@ -2679,6 +2835,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2828,6 +2988,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!1001 &1510331794
@@ -2840,6 +3010,10 @@ PrefabInstance:
     - target: {fileID: 1091242992622558, guid: 7d071927c08ddb64ab3a3959ffa1281b, type: 3}
       propertyPath: m_Name
       value: DespawnHeight
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091242992622558, guid: 7d071927c08ddb64ab3a3959ffa1281b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4515277542911952, guid: 7d071927c08ddb64ab3a3959ffa1281b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2969,6 +3143,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: school desk1 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534866581884222612, guid: 61a2a9f60dbe07042ba2939c451ae766,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a2a9f60dbe07042ba2939c451ae766, type: 3}
 --- !u!4 &1541179528 stripped
@@ -2987,6 +3171,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3060,7 +3248,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1675284239
 Transform:
@@ -3111,7 +3299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   id:
-    value: 0
+    value: 15012527753084551265
   itemName: "\u30A2\u30A4\u30C6\u30E0"
 --- !u!114 &1675284242
 MonoBehaviour:
@@ -3275,6 +3463,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpawnPointEntrance (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
       value: 26.023735
@@ -3321,72 +3513,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
---- !u!1 &2004862237
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2004862240}
-  - component: {fileID: 2004862239}
-  - component: {fileID: 2004862238}
-  m_Layer: 0
-  m_Name: EventSystem
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2004862238
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2004862237}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_HorizontalAxis: Horizontal
-  m_VerticalAxis: Vertical
-  m_SubmitButton: Submit
-  m_CancelButton: Cancel
-  m_InputActionsPerSecond: 10
-  m_RepeatDelay: 0.5
-  m_ForceModuleActive: 0
---- !u!114 &2004862239
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2004862237}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
---- !u!4 &2004862240
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2004862237}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 18
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2006528419
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3397,6 +3523,10 @@ PrefabInstance:
     - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_Name
       value: SpawnPointEntrance (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1331264762693232, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4677043343313530, guid: 8aad3465d2c6df7418cbced5b4ac4a81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3478,7 +3608,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2057507800
 Transform:
@@ -3515,7 +3645,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2102611129
 Transform:
