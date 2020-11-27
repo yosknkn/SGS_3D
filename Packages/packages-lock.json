@@ -52,11 +52,11 @@
       "url": "https://packages.unity.com"
     },
     "mu.cluster.cluster-creator-kit": {
-      "version": "https://github.com/ClusterVR/ClusterCreatorKit.git",
+      "version": "https://github.com/clustervr/ClusterCreatorKit.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "3bb68f6c43f64e317612490acc2e5340391f06ea"
+      "hash": "e37ab4499649ca0ea0e68dc1a202aa407840bd98"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
