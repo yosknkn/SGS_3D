@@ -3,6 +3,9 @@
 - Unity **2019.4.11f1** (←[後述](https://github.com/yokenkn/SGS_3D/new/master/SGS_3D_Unity#unity%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6))
 - Cluster Creator Kit ver.1.12.2
 
+### 追記
+Cluster Creator Kitがアップデートされ、ver.1.12.3になり、Unityの推奨バージョンが2019.4.22f1に変更されました(2021/4/27)
+
 ### ファイル
 - SGS_3D_Unity(UnityプロジェクトのRoot)
   - Asset
