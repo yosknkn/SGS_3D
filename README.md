@@ -7,5 +7,5 @@
     - 各種モデルの.blendデータ
     - [詳細](SGS_3D_blender/blenderFiles.md)
   - SGS_3D_Unity
-    - clusterにアップロード等するためのUnityProject
+    - clusterにアップロード等するためのUnityProjectのルートフォルダ
     - [詳細](SGS_3D_Unity/UnityFiles.md)
